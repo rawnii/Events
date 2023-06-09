@@ -2,7 +2,7 @@
     //toggles
     "live": false,
     "img": false,
-    //info
+    //
     "name": "Event Name",
     "date": "Event Date",
     "where": "Event Location",
