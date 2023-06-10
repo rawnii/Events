@@ -5,7 +5,8 @@
             "date": "Event Date",
             "where": "Event Location",
             "Description": "Test 1",
-            "imgLink": ""
+            "imgLink": "",
+            "fullWriteUp": ""
         },
             "metadata": { 
             "ID":1
@@ -18,7 +19,8 @@
             "date": "Event Date",
             "where": "Event Location",
             "Description": "Test 2",
-            "imgLink": ""
+            "imgLink": "",
+            "fullWriteUp": ""
         },
             "metadata": { 
             "ID":2
@@ -31,7 +33,8 @@
             "date": "Event Date",
             "where": "Event Location",
             "Description": "Test 3",
-            "imgLink": ""
+            "imgLink": "",
+            "fullWriteUp": ""
         },
             "metadata": { 
             "ID":3
