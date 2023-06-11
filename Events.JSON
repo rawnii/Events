@@ -39,5 +39,19 @@
             "metadata": { 
             "ID":3
         }
+    },
+
+    {
+        "Event": {
+            "name": "Event Name",
+            "date": "Event Date",
+            "where": "Event Location",
+            "Description": "Test 4",
+            "imgLink": "",
+            "fullWriteUp": ""
+        },
+            "metadata": { 
+            "ID":3
+        }
     }
 ]
