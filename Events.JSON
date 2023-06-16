@@ -1,12 +1,19 @@
 [
     {
         "Event": {
-            "name": "Event Name",
-            "date": "Event Date",
-            "where": "Event Location",
+            "name": "Event Name 1",
+            "date": "Event Date first",
+            "where": "Event Location first",
             "Description": "Test 1",
             "imgLink": "",
-            "fullWriteUp": ""
+            "fullInfo": {
+                "imgLink1": "https://cdn.pixabay.com/photo/2015/02/13/09/49/pay-634914_960_720.png",
+                "text1": "Text about img 1",
+                "imgLink2": "https://cdn.pixabay.com/photo/2013/07/12/16/22/number-150791_960_720.png",
+                "text2": "Text about img 2",
+                "imgLink3": "https://cdn.pixabay.com/photo/2015/02/13/09/48/pay-634912_960_720.png",
+                "text3": "Text about img 3"
+            }
         },
             "metadata": { 
             "ID":1
@@ -15,12 +22,19 @@
 
     {
         "Event": {
-            "name": "Event Name",
-            "date": "Event Date",
-            "where": "Event Location",
+            "name": "Event Name 2",
+            "date": "Event Date second",
+            "where": "Event Location second",
             "Description": "Test 2",
             "imgLink": "",
-            "fullWriteUp": ""
+            "fullInfo": {
+                "imgLink1": "",
+                "text1": "",
+                "imgLink2": "",
+                "text2": "",
+                "imgLink3": "",
+                "text3": ""
+            }
         },
             "metadata": { 
             "ID":2
@@ -29,12 +43,19 @@
 
     {
         "Event": {
-            "name": "Event Name",
-            "date": "Event Date",
-            "where": "Event Location",
+            "name": "Event Name 3",
+            "date": "Event Date third",
+            "where": "Event Locationthird",
             "Description": "Test 3",
             "imgLink": "",
-            "fullWriteUp": ""
+            "fullInfo": {
+                "imgLink1": "",
+                "text1": "",
+                "imgLink2": "",
+                "text2": "",
+                "imgLink3": "",
+                "text3": ""
+            }
         },
             "metadata": { 
             "ID":3
@@ -43,12 +64,19 @@
 
     {
         "Event": {
-            "name": "Event Name",
-            "date": "Event Date",
-            "where": "Event Location",
+            "name": "Event Name 4",
+            "date": "Event Date fourth",
+            "where": "Event Location fourth",
             "Description": "Test 4",
             "imgLink": "",
-            "fullWriteUp": ""
+            "fullInfo": {
+                "imgLink1": "",
+                "text1": "",
+                "imgLink2": "",
+                "text2": "",
+                "imgLink3": "",
+                "text3": ""
+            }
         },
             "metadata": { 
             "ID":3
