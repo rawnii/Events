@@ -1,7 +1,7 @@
 [
     {
         "Event": {
-            "name": "Event Name 1",
+            "name": "EventName1",
             "date": "Event Date first",
             "where": "Event Location first",
             "Description": "Test 1",
@@ -22,7 +22,7 @@
 
     {
         "Event": {
-            "name": "Event Name 2",
+            "name": "EventName2",
             "date": "Event Date second",
             "where": "Event Location second",
             "Description": "Test 2",
@@ -43,7 +43,7 @@
 
     {
         "Event": {
-            "name": "Event Name 3",
+            "name": "EventName3",
             "date": "Event Date third",
             "where": "Event Locationthird",
             "Description": "Test 3",
@@ -64,7 +64,7 @@
 
     {
         "Event": {
-            "name": "Event Name 4",
+            "name": "EventName4",
             "date": "Event Date fourth",
             "where": "Event Location fourth",
             "Description": "Test 4",
