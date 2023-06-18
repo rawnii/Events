@@ -4,7 +4,7 @@
             "name": "EventName1",
             "date": "Event Date first",
             "where": "Event Location first",
-            "Description": "Test 1",
+            "description": "Test 1",
             "imgLink": "",
             "fullInfo": {
                 "imgLink1": "https://cdn.pixabay.com/photo/2015/02/13/09/49/pay-634914_960_720.png",
@@ -25,7 +25,7 @@
             "name": "EventName2",
             "date": "Event Date second",
             "where": "Event Location second",
-            "Description": "Test 2",
+            "description": "Test 2",
             "imgLink": "",
             "fullInfo": {
                 "imgLink1": "",
@@ -46,7 +46,7 @@
             "name": "EventName3",
             "date": "Event Date third",
             "where": "Event Locationthird",
-            "Description": "Test 3",
+            "description": "Test 3",
             "imgLink": "",
             "fullInfo": {
                 "imgLink1": "",
@@ -67,7 +67,7 @@
             "name": "EventName4",
             "date": "Event Date fourth",
             "where": "Event Location fourth",
-            "Description": "Test 4",
+            "description": "Test 4",
             "imgLink": "",
             "fullInfo": {
                 "imgLink1": "",
