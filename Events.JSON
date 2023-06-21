@@ -1,6 +1,6 @@
 [
     {
-        "EventName1": {
+        "Website Is Live": {
             "name": "Website Is Live",
             "date": "Sometime in the future",
             "where": "World Wide Web",
@@ -21,8 +21,8 @@
     },
 
     {
-        "EventName2": {
-            "name": "Website Is Live",
+        "Website Is Dead": {
+            "name": "Website Is Dead",
             "date": "Sometime in the future",
             "where": "World Wide Web",
             "description": "This is a preparatory Event",
