@@ -47,7 +47,7 @@
             "date": "Event Date third",
             "where": "Event Locationthird",
             "description": "Test 3",
-            "imgLink": "",
+            "imgLink": "https://cdn.pixabay.com/photo/2013/07/12/16/22/number-150791_960_720.png",
             "fullInfo": {
                 "imgLink1": "",
                 "text1": "",
@@ -68,7 +68,7 @@
             "date": "Event Date fourth",
             "where": "Event Location fourth",
             "description": "Test 4",
-            "imgLink": "",
+            "imgLink": "https://cdn.pixabay.com/photo/2013/07/12/16/22/number-150791_960_720.png",
             "fullInfo": {
                 "imgLink1": "",
                 "text1": "",
