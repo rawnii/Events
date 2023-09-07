@@ -36,8 +36,8 @@
     },
 	
 	{
-        "Cookin": {
-            "name": "I'm on Cookin",
+        "I'm on Cookin": {
+            "name": "Cookin",
             "date": "Sept 6",
             "where": "Downtown Toronto",
             "description": "Download the Cookin App",
