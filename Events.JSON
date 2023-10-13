@@ -51,6 +51,24 @@
                 "text3": ""
             }
         }
+    },
+	
+	{
+        "Cookin Menu and Custom Meal Packs": {
+            "name": "Cookin Menu and Custom Meal Packs",
+            "date": "Oct 12",
+            "where": "Downtown Toronto",
+            "description": "Contact me to discuss options or check out my store to try my food.",
+            "imgLink": "http://www.nicholasheckbert.com/images/celeriac.jpg",
+            "fullInfo": {
+                "imgLink1": "http://www.nicholasheckbert.com/images/rillette.jpg",
+                "text1": "It's an exciting time in my kitchen, as I nearly have all planned menu items available weekends on my Cookin store "Bespoke Culinary". Lots of options for everyone, including gluten free and vegan dishes.",
+                "imgLink2": "http://www.nicholasheckbert.com/images/rillette.jpg",
+                "text2": "I'm also now offering custom weekly meal packs. I will cook dishes for you for the week, and you can decide what you want them to be, and how easy to put together they are. If you want grab and go, quick warm up, of even some quick building and cooking it can all be done. Dietary restrictions and nutritional goals will be taken into consideration as well, and together we'll figure out how to get the best and most convenient food to you. If you want to try my food first check out the Cookin app and look for me there.",
+                "imgLink3": "",
+                "text3": ""
+            }
+        }
     }
 ]
 
